@@ -1,0 +1,5 @@
+PyQt6==6.6.1
+pytesseract==0.3.10
+googletrans==4.0.0rc1
+pypinyin==0.50.0
+opencv-python==4.8.0.74
